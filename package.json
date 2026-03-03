@@ -1,7 +1,6 @@
 {
   "dependencies": {
     "@radix-ui/react-accordion": "^1.2.11",
-    "@tailwindcss/postcss": "^4.2.1",
     "tailwindcss": "3.4.17"
   }
 }
